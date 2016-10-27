@@ -15,7 +15,7 @@ Mongoose
 
 ## Instruções
 
-Realize o commit apenas quando finalizar o teste, e faça o mesmo em um branch com o seu nome.
+Faça o fork do projeto, cria um branch com seu nome. Quando finalizar nos envie um pull request.
 
 ## Importante
 
