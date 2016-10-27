@@ -4,7 +4,7 @@
 
 Desenvolvimento de uma API REST com os métodos HTTP padrões.
 
-A API deverá executar os vérbos HTTP em uma collection 'user' com os campos 'nome', 'email', 'login' e 'senha'.
+A API deverá executar os verbos HTTP em uma collection 'user' com os campos 'nome', 'email', 'login' e 'senha'.
 
 Para desenvolvimento da API deverá ser utilizado as seguintes ferramentas:
 
